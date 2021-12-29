@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5270b392-d7f8-4002-abd6-88b4c20b3eff": {
+      "ProjectGuid": "5270b392-d7f8-4002-abd6-88b4c20b3eff",
+      "DisplayName": "Login",
+      "ColorIndex": 0
+    },
+    "74ed6eb9-1d99-4430-991a-b8719537ce78": {
+      "ProjectGuid": "74ed6eb9-1d99-4430-991a-b8719537ce78",
+      "DisplayName": "LoginINC",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
