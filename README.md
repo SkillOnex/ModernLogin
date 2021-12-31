@@ -4,7 +4,7 @@
 #
 
 <p align="center"> Esse templete foi criado por mim com o intuito que pessoas iniciantes
-possam baixar visualizar e estudar sobre ele, O foco não foi criar um "Sistema de login" e sim mostrar como o Layout pode ser construido,mas adicionei um sistema simples de login
+possam baixar visualizar e estudar sobre ele, O foco não foi criar um "Sistema de login" e sim mostrar como pode ser construido,mas adicionei um sistema simples de registro
 pra mostrar como ele pode funcionar.</p>
 
 #
@@ -14,7 +14,7 @@ Você consegue interagir com o login e registro.</p>
 
 #
 
-<p align="center"> Atenção caso você que baixou ou apenas visualisou esse templete queira usar pra outros fins
+<p align="center"> Atenção! caso você baixou ou apenas visualisou esse templete queira usar pra outros fins
 como implementação do mesmo em alguma aplicação lembre-se </p>
 
 <p align="center"> Os codigos contidos no mesmo não possuem nenhum tipo de segurança podendo ser facilmente 
@@ -24,7 +24,7 @@ adicione modos de segurança como criptografia nas chaves de login/usuario ,ofus
 #
 
 <p align="center"> Os codigos usados no mesmo são implementações simples usados apenas para fins de estudo,
-existem modos mais "bem feitos" e "seguros " para implementar sistemas de login.
+existem modos mais "bem feitos" e "seguros" para implementar sistemas de login.
   
 <p align="center"> Lembrando não sou expert em nada! </p>
 <p align="center"> Click na imagem para melhor visualização ! </p>
